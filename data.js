@@ -1,4 +1,4 @@
-export const data ={[
+export const data =[
     {
         "id": 1,
         "page-urls": "https://www1.citibank.com.au/",
@@ -3257,4 +3257,4 @@ export const data ={[
         "owners": "Shen, Darren",
         "Updated": "22-05-2025"
     }
-]}
+]
